@@ -30,7 +30,7 @@ export default function FavoritesScreen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: '#BCB9F9',
   },
   emptyContainer: {
     flex: 1,
